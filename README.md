@@ -55,8 +55,10 @@ _University of the Punjab, Gujranwala Campus (2014 – 2018)_
 
 ## 📌 Selected Projects  
 
+> ⚠️ **Note**: The following projects are part of my professional work at **Expert Soft Solution LLC** and are hosted in **private repositories** under the company account. I contributed as a **Frontend Developer**, primarily focusing on design layout, UI implementation, responsiveness, and API integrations.
+
 ### 🔹 [Lead Form](#)  
-A form builder for surveys to create and manage dynamic fields.  
+Form builder for surveys to create and manage dynamic fields.  
 **Role:** Frontend Developer  
 **Stack:** React.js, TypeScript, Redux Toolkit, MUI, Formik  
 
@@ -103,7 +105,7 @@ Compliance & risk management platform for businesses.
 ## 📫 Connect with Me  
 
 - 📫 Email: [salmanrasheed401@gmail.com](mailto:salmanrasheed401@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in//salman-rasheed-7b1123142/](https://www.linkedin.com/in/salman-rasheed-7b1123142/)  
+- 💼 LinkedIn: [linkedin.com/in/salman-rasheed-7b1123142](https://www.linkedin.com/in/salman-rasheed-7b1123142/)  
 
 ---
 
